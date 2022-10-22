@@ -1,1 +1,3 @@
-print("Hello bozo!")
+git commit -m "gg"
+local poo = print("Hello bozo!") 
+print(poo)
