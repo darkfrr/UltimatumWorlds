@@ -1,2 +1,0 @@
-local poo = print("Hello bozo!") 
-print(poo)
